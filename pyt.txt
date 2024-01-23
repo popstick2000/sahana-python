@@ -1,0 +1,4 @@
+date1="23-01-2024"
+class1="git hub"
+place="Bengaluru"
+print("We are attending", class1," on", date1) 
